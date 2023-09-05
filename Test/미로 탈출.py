@@ -13,3 +13,4 @@ def bfs(x, y):
     while queue:
         # 큐에서 하나의 원소를 뽑아 출력
         v = queue.popleft()
+        
